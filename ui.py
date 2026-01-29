@@ -61,7 +61,7 @@ class HUD:
                 scale=(0.78, 0.78),
                 color=color.white,
                 z=-0.01,
-                shader=unlit_shader,  # ✅ not affected by lighting
+                shader=unlit_shader,  
             )
 
             # number label
