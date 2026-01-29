@@ -50,6 +50,7 @@ This project demonstrates my understanding of:
 ## 📁 Project Structure
 
 ```
+
 .
 ├─ main.py          # Game entry point
 ├─ world.py         # World and block management
@@ -89,6 +90,7 @@ You can use any **free voxel-style textures or sounds** to run and customize the
    ```bash
    pip install -r requirements.txt
    ```
+
 3. Run the game:
 
    ```bash
@@ -109,5 +111,3 @@ The codebase, structure, and features were **significantly rewritten and extende
 ## 📜 License
 
 This project is licensed under the **MIT License**.
-
-```
