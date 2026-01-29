@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+assets/
+
+# VS Code
+.vscode/
+*.db
+*.db-shm
+*.db-wal
+
+# World saves (optional)
+worlds/world.json
+
