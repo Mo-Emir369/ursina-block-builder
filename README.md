@@ -1,4 +1,3 @@
-تمام 👍 فهمتك
 # Ursina Block Builder
 
 A simple Minecraft-like block sandbox game built with **Python** and the **Ursina Engine**.
