@@ -98,7 +98,7 @@ You can use any **free voxel-style textures or sounds** to run and customize the
    ```
 
 ---
-
+````
 ## 💡 Inspiration & Credits
 
 Inspired by early Minecraft-style prototypes, including:
