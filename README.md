@@ -84,20 +84,22 @@ You can use any **free voxel-style textures or sounds** to run and customize the
    ```bash
    git clone https://github.com/Mo-Emir369/ursina-block-builder.git
 ````
+````
 
 2. Install dependencies:
 
    ```bash
    pip install -r requirements.txt
-   ```
+   ````
 
 3. Run the game:
 
    ```bash
    python main.py
-   ```
+   ````
 
 ---
+````
 ````
 ## 💡 Inspiration & Credits
 
